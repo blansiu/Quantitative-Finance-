@@ -1,2 +1,2 @@
 # Quantitative-Finance-
-Some quant finance projects 
+Some quant finance projects in the works
